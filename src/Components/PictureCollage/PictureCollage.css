@@ -1,0 +1,12 @@
+.collageColumn {
+    width: 300px;
+}
+
+@keyframes animatePictureColumn {
+    0%{
+        transform: translateY(2550px);
+    }
+    100%{
+        transform: translateY(-2550px);
+    }
+}
